@@ -1,21 +1,22 @@
-<h2>Heyaaa theree!!!,নমস্কার  I'm Anmol Pant! <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="50"></h2> 
+<h2>Heyaaa theree!!!,নমস্কার  I'm Sushweta Bhattacharya! <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="50"></h2> 
 <img align='right' src="https://media.giphy.com/media/nFLW7PNGgN3lI68rdv/giphy.gif" width="230"> 
 <br/>
 <div align = 'left'>
 
 🚀 2nd-year tech wizard at Jaypee Institute of InfoTech, where I'm busy making code disappear faster than Houdini with a hangover!
-📚 I'm a book-loving Potterhead casting algorithms instead of spells. My Patronus? A debugging squirrel! 🐿️
-💻 Fluent in C++, React.js, HTML, CSS; Python novice. Seeking cloud wisdom because my code tends to get lost in the clouds!
-👥 Let's team up for coding adventures and create digital magic! Or maybe just debate if "Accio Bug" is a valid debugging spell.
-🎶 When not coding, I'm singing in binary – my rendition of "99 Bottles of Beer on the Wall" is a hit with AI.
-💬 Ask me anything tech-related, or let's chat about the magical world of code, where bugs are magical creatures we must set free! 🪄
+<br/>
+📚 I'm a book-loving Potterhead casting algorithms instead of spells. My Patronus? A debugging squirrel! 🐿️<br/>
+💻 Fluent in C++, React.js, HTML, CSS; Python novice. Seeking cloud wisdom because my code tends to get lost in the clouds!<br/>
+👥 Let's team up for coding adventures and create digital magic! Or maybe just debate if "Accio Bug" is a valid debugging spell.<br/>
+🎶 When not coding, I'm singing in binary – my rendition of "99 Bottles of Beer on the Wall" is a hit with AI.<br/>
+💬 Ask me anything tech-related, or let's chat about the magical world of code, where bugs are magical creatures we must set free! 🪄<br/>
 
 
 **Languages and Tools:** 
 
 <p>
   
-  <code><img width="20%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="20%" height="5%"src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="20%" src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg"></code>
   <br />
   <code><img width="20%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
