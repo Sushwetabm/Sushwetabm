@@ -39,7 +39,7 @@ Computer Science and Engineering Student at <a href="https://www.jiit.ac.in/">Ja
 ```javascript
 const sushweta = {
     pronouns: "Try" | "me",
-    code: ["Javascript", "HTML", "Python", "C", "C++", "mySQL"],
+    code: ["Javascript", "HTML", "Python", "C", "C++", "MongoDB"],
     askMeAbout: ["Web Dev", "Tech",  "Software Development", "TV Shows", "Music", "Books", "Harry Potter"],
 
     currentProject: "Leveling up my skills like Mario collecting power-ups
