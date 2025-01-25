@@ -5,10 +5,10 @@
 Computer Science and Engineering Student at <a href="https://www.jiit.ac.in/">Jaypee Institute of Information Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 <br/>
 <br/>
-🚀 2nd-year tech wizard at Jaypee Institute of InfoTech, where I'm busy making code disappear faster than Houdini with a hangover!
+🚀 3rd-year tech wizard at Jaypee Institute of InfoTech, where I'm busy making code disappear faster than Houdini with a hangover!
 <br/>
 📚 I'm a book-loving Potterhead casting algorithms instead of spells. My Patronus? A debugging squirrel! 🐿️<br/>
-💻 Fluent in C++, React.js, HTML, CSS; Python novice. Seeking cloud wisdom because my code tends to get lost in the clouds!<br/>
+💻 Fluent in C++, React.js, Python  Seeking cloud wisdom because my code tends to get lost in the clouds!<br/>
 👥 Let's team up for coding adventures and create digital magic! Or maybe just debate if "Accio Bug" is a valid debugging spell.<br/>
 🎶 When not coding, I'm singing in binary – my rendition of "99 Bottles of Beer on the Wall" is a hit with AI.<br/>
 💬 Ask me anything tech-related, or let's chat about the magical world of code, where bugs are magical creatures we must set free! 🪄<br/>
